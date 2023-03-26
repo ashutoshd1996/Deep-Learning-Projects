@@ -4,7 +4,7 @@ This project aims to classify images of Rice grains into types of Rice using Con
 
 It consists of the following steps :
 
-1. Downloading the dataset
+1. Downloading the dataset from Kaggle
 2. Importing the dataset using PyTorch
 3. Exploring the dataset
 4. Prepare the dataset for training
