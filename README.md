@@ -1,14 +1,4 @@
-### Deep-Learning-project-Rice-Classfication
+### Deep-Learning-projects
 
-This project aims to classify images of Rice grains into types of Rice using Convolutional Neural Networks (CNN)
+This Repository contains all the Deep Learning projects, using Pytorch and Jupyter-notebook.
 
-It consists of the following steps :
-
-1. Downloading the dataset from Kaggle
-2. Importing the dataset using PyTorch
-3. Exploring the dataset
-4. Prepare the dataset for training
-5. Create a Neural Network Model
-6. Train the model
-7. Plot Accuracies and Loss
-8. Test the model with the random sample from the dataset
